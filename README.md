@@ -19,6 +19,7 @@ Here’s what I visualized:
  • Combining multiple chart types to tell a cohesive story.
  • Using Tableau’s features to create visually engaging and meaningful insights.
  • How much fun it is to use creative datasets like this one to hone my skills!
+ 
  Tableau Link: https://public.tableau.com/views/BREAKINGBAD_17478740071510/BREAKINGBAD?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
  Tableau is such a powerful tool, and I’m enjoying every step of this learning journey. Excited to continue exploring and experimenting with new ideas.
